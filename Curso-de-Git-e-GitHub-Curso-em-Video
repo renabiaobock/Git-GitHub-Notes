@@ -1,0 +1,110 @@
+# O que é Git? O que é versionamento? Aula 01/13
+
+Git = Sofware de controle de versao
+GitHub = Plataforma de rede social para programadores
+
+1o Software de controle de versao (1972)
+
+Versionamento (VSC):
+    centralizado/linear
+        * CCC
+        * SCCS
+        * Panvalet
+        * CSV
+        * SVN
+        * ClearCase
+        * Visual SourceSafe
+        * Perforce
+
+    ditribuido:
+        * Mercurial
+        * Bazaar
+        * Code Co-op
+        * GNU arch
+        * Monotone
+        * Fossil
+        * BitKeeper
+        * Git
+
+Principais vantagens:
+    * Controle de historico
+    * Trabalho em equipe
+    * Ramificacao do projeto
+    * Seguranca
+    * Organizacao
+
+
+# O que é GitHub? Pra que ele serve? Aula 02/13
+
+./difference_of_git_and_github.png
+
+
+# A Evolução do Git e GitHub. Aula 03/13
+
+1985 - CSV:
+    * Centralizado
+    * Open Source
+    * Mais popular
+
+2000 - SVN:
+    * Centralizado
+    * Open Source
+    * Ativo até hoje
+    * CVS-like
+
+2000 - BitKeeper
+    * Distribuido
+    * Propietario
+    * Versão comunidade
+    * CVS-free
+
+2004 - Treta BitKeeper vs Linux
+
+2005 - Alterações significativas no BitKeeper
+
+2005 - Linus Torvalds cria o Git
+
+2005 - Git:
+    * Distribuido
+    * Open Source
+    * Feito em 10 dias
+
+
+2008 - GitHub:
+    * Proprietario
+    * Hospedagem de código
+    * Baseado em Git
+    * 2009: 46k repositórios
+    * 2010: 100k user / 1M repositórios
+    * 2011: Ultrapassou o SourceForge (padrão para armazenagem de códigos da época)
+    * 2013: 3M users / 5M repositórios
+    * 2016: 14º lugar na lista da Forbes (empresas de software promissoras)
+    * 2018: Maior ataque de DDoS da história
+    * 2018: GitHub é adquirido pea Microsoft por USD 7.5 bi
+    * 2020: GitHub compra a npm (node package manager)
+
+
+# Instalações e configurações importantes. Aula 04/13
+
+VSCode setup.
+GitHub desktop setup.
+
+
+# Criando o primeiro Repositório. Aula 05/13
+
+Created a repository with GitHub desktop.
+Made the first commit/push to the new repository.
+Made aditional commits to test and learn.
+
+
+# Instalando GitHub Desktop no Linux. Aula 06/13
+
+
+# Clonando um Repositório. Aula 07/13
+
+Cloned https://github.com/gustavoguanabara/html-css repository.
+
+
+# Versionando seus projetos antigos. Aula 08/13
+
+
