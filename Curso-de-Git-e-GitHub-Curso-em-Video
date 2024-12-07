@@ -111,9 +111,31 @@ Created a repository to save all notes of Git and GitHub course.
 Versioned existing notes that was made offline ultil class 08/13.
 
 
-# Você sabe usar Issues? 09/13.
+# Você sabe usar Issues? 09/13
 
 Learned how to create and interact in repository issues.
 Created an issue.: https://github.com/renabiaobock/Git-GitHub-Notes/issues/1#issue-2724818422
 Learned a good practice: never create an issue before searching if there is an existing issue with the same question.
 
+
+# Guia da Linguagem Markdown. Aula 10/13
+
+Negrito: ** ou __
+Itálico: *
+Tachado: ~~
+Título nível 1: #
+Título nível 2: ##
+Título nível 3: ###
+Linha: --- ou ***
+Lista numerada: numero + ponto (1.)
+Lista demarcada: * Item
+Checkbox: - [] / - [x]
+Imagem: ![Descrição da imagem](link para imagem)
+Link: [Texto](link)
+Tabela: xxx | yyy | zzz
+        --- | --- | ---
+        111 | 222 | 333
+Comando: `comando`
+Trecho de código: ``` codigo ```
+Emoji: :code:
+Quote: >
