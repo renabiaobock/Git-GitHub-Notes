@@ -155,3 +155,13 @@ Desenvolvimento de um design basico em css na branch design
 Desenvolvimento do conteudo do site na branch conteudo
 Merge das branches conteudo e design na master
 Resolução de um conflito no merge da branch design
+
+
+# Hospedagem Grátis no GitHub Pages. Aula 13/13
+
+Criação de uma nova branch para dar update no site;
+Site publicado no GitHub pages na branch main; (https://renabiaobock.github.io/projeto-site/index.html)
+Merge da branch update-08-dez na branch main para atualizar o site;
+Branch conteudo deletada;
+Branch design deletada;
+Branch update-08-dez deletada;
