@@ -145,3 +145,13 @@ Quote: >
 
 Colocar uma senha forte
 Adicionar verificação de dois fatores
+
+
+# Git Branches de forma fácil e com exemplo. Aula 12/13
+
+O correto não é desenvolver sempre na branch main/master, o correto é criar uma branch para cada feature/versão durante o desenvolvimento e depois dar um merge para a branch principal;
+Criação de duas novas branches pra desenvolvimento de um site de exemplo: conteudo e design;
+Desenvolvimento de um design basico em css na branch design
+Desenvolvimento do conteudo do site na branch conteudo
+Merge das branches conteudo e design na master
+Resolução de um conflito no merge da branch design
